@@ -4,8 +4,12 @@ This is the repository for the Taipei chapter of Papers We Love. As a local chap
 
 ### Information
 
-[Chapter information: who, what, where, when, why]
+> [Chapter information: who, what, where, when, why]
+
+See https://www.meetup.com/Papers-We-Love-Taipei-Taiwan
 
 ### Contact
 
-{Names and contact information (twitter, email, etc) of Chapter organizers}
+> {Names and contact information (twitter, email, etc) of Chapter organizers}
+
+Telegram group: https://t.me/joinchat/BxdsixsKOd9JErD2KIm9SA
