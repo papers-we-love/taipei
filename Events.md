@@ -44,6 +44,7 @@ Who: Ava, Ya-wen Jeng\
 Where: Taiwan, Taipei\
 When: March 9, 2022\
 Why: Ethics of Information Transparency and Unirep/Unirep Social [EN/中文]\
+Relative URLs: [First Paper](https://www.researchgate.net/publication/226497023_The_ethics_of_information_transparency)
 For more info., please visit https://www.meetup.com/Papers-We-Love-Taipei-Taiwan
 
 \
